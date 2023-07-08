@@ -1,2 +1,0 @@
-# Tosco
-Truckhome automation
