@@ -6,8 +6,8 @@
 //#define DHTTYPE DHT21   // DHT 21 (AM2301)
 #define DHTTYPE DHT22     // DHT 22  (AM2302), AM2321
 // * Coloque seu SSID e senha * //
-const char* ssid = "CLARO_2G872534";  // Entre SSID aqui
-const char* password = "D4872534";  // Insira a senha aqui
+const char* ssid = "CONTA";  // Entre SSID aqui
+const char* password = "SENHA";  // Insira a senha aqui
 WebServer server(80);
 // Sensor DHT
 uint8_t DHTPin = 4; 
