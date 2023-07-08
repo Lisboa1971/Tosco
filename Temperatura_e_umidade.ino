@@ -29,8 +29,8 @@
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "CLARO_2G872534";
-char pass[] = "D4872534";
+char ssid[] = "CONTA";
+char pass[] = "SENHA";
 
 #define DHTPIN 2          // What digital pin we're connected to
 
