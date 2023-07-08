@@ -13,8 +13,8 @@ bool Estado_Do_Rele3 = LOW;
 bool Estado_Do_Rele4 = LOW;
  
 // substitua os dados entre parênteses com o nome da Rede e a senha desejados
-const char *ssid = "CLARO_2G872534";
-const char *password = "D4872534";
+const char *ssid = "CONTA";
+const char *password = "SENHA";
  
 WiFiServer server(80);
  
