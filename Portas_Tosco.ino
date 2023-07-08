@@ -3,8 +3,8 @@
 #include <AsyncTCP.h>
 #include <ESPAsyncWebSrv.h>
 
-const char* ssid = "CLARO_2G872534"; // Nome da sua rede Wi-Fi
-const char* password = "D4872534"; // Senha da sua rede Wi-Fi
+const char* ssid = "CONTA"; // Nome da sua rede Wi-Fi
+const char* password = "SENHA"; // Senha da sua rede Wi-Fi
 const char* serverName = "http://exemplo.com/informar_estado.php"; // URL do arquivo PHP que receberá os dados
 
 const int numEntradas = 34;
