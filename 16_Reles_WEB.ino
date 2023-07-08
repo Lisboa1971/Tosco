@@ -3,8 +3,8 @@
 #include <WiFi.h>
 #include <ESPAsyncWebSrv.h>
 
-const char* ssid = "CLARO_2G872534";
-const char* password = "D4872534";
+const char* ssid = "CONTA";
+const char* password = "SENHA";
 
 Adafruit_MCP23X17 mcp;
 
