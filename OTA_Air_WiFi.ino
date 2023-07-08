@@ -6,8 +6,8 @@
 #define ledVerde 23 //este led sinaliza que o ESP foi conectado
 #define ledVermelho 22 //este led é usado como exemplo de atualização
 
-const char* ssid = "CLARO_2G872534"; //nome da rede
-const char* password = "D4872534"; //senha da rede
+const char* ssid = "CONTA"; //nome da rede
+const char* password = "SENHA"; //senha da rede
 
 void setup()
 {
