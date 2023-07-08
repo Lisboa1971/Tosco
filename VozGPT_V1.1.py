@@ -10,7 +10,7 @@ engine = pyttsx3.init()
 engine.setProperty('voice', 'pt-br')
 
 # Definir as credenciais da API do OpenAI
-openai.api_key = "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"
+openai.api_key = "API"
 
 # Função para realizar o reconhecimento de voz
 def reconhecer_voz():
