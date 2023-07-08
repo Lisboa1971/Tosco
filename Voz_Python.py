@@ -14,5 +14,5 @@ def responder_voz(texto):
     engine.runAndWait()
 
 # Exemplo de uso
-responder_voz("Olá, Paulinha! Sou a casinha aqui, pronta para te receber com aconchego e conforto. Como posso ajudar você hoje?")
+responder_voz("Olá, Mano! Sou o GPT aqui. Como posso ajudar você hoje?")
 
