@@ -6,8 +6,8 @@
 
 Adafruit_MCP23X17 mcp;
 
-const char* ssid = "CLARO_2G872534";
-const char* password = "D4872534";
+const char* ssid = "CONTA4";
+const char* password = "SENHA";
 
 void setup() {
   // Inicialização da comunicação I2C
