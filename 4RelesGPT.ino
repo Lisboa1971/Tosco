@@ -1,9 +1,9 @@
-#include <WiFi.h>
+A#include <WiFi.h>
 #include <WebServer.h>
 
 // Substitua pelas suas credenciais de Wi-Fi
-const char* ssid = "CLARO_2G872534";
-const char* password = "D4872534";
+const char* ssid = "CONTA";
+const char* password = "SENHA";
 
 // Configurações do servidor web
 WebServer server(80);
